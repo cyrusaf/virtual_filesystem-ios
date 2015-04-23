@@ -5,7 +5,7 @@
 //  Created by Taiwon Chung on 1/28/15.
 //  Copyright (c) 2015 Northwestern University. All rights reserved.
 //
-//TIan ZHang test
+
 import UIKit
 
 @UIApplicationMain
